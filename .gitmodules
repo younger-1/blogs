@@ -10,3 +10,10 @@
 [submodule "themes/maupassant"]
 	path = themes/maupassant
 	url = https://github.com/flysnow-org/maupassant-hugo
+[submodule "public"]
+	path = public
+	url = git@github.com:younger-1/younger-1.github.io.git
+	branch = master
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
