@@ -44,7 +44,7 @@ sequenceDiagrams:
 
 1. neovim
 2. `vimtutor`
-2. [vscodevim](https://aka.ms/vscodevim)
+3. [vscodevim](https://aka.ms/vscodevim)
 
 
 
